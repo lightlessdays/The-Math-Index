@@ -1,1 +1,14 @@
-
+{
+    "question":"If n is an integer greater than 6, which of the following must be divisible by 3?",
+    "options":[
+        "3",
+        "4",
+        "5",
+        "1",
+        "Cannot be Determined"
+    ],
+    "source":"https://www.doubtnut.com/qna/648742309",
+    "difficulty":"easy",
+    "correctAnswer":"a",
+    "correctSolutionVideoData":"https://youtu.be/riwhRSbehkk"
+}
