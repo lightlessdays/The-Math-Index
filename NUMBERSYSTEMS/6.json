@@ -1,1 +1,14 @@
-
+{
+    "question":"For any natural numbers m, n, and k, such that k divides both m + 2n and 3m + 4n, k must be a common divisor of",
+    "options":[
+        "m and n",
+        "2m and 3n",
+        "m and 2n",
+        "2m and n",
+        "3m and 3n"
+    ],
+    "source":"For any natural numbers m, n, and k, such that k divides both m + 2n and 3m + 4n, k must be a common divisor of",
+    "difficulty":"easy",
+    "correctAnswer":"c",
+    "correctSolutionVideoData":""
+}
