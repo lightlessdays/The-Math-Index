@@ -1,1 +1,15 @@
+{
+    "question":"How many 3-digit numbers are there, for which the product of their digits is more than 2 but less than 7?",
+    "options":[
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+    ],
+    "source":"https://cracku.in/cat-number-systems-questions",
+    "difficulty":"easy",
+    "correctAnswer":"b",
+    "correctSolutionVideoData":""
+}
 
