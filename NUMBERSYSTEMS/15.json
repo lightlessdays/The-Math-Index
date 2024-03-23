@@ -1,1 +1,15 @@
+{
+    "question":"Find the lowest number which gives a remainder of 5 when divided by any of the numbers 6, 7, and 8.",
+    "options":[
+        "74",
+        "173",
+        "274",
+        "373",
+        "474"
+    ],
+    "source":"https://bodheeprep.com/hcf-lcm-questions-cat",
+    "difficulty":"medium",
+    "correctAnswer":"b",
+    "correctSolutionVideoData":""
+}
 
