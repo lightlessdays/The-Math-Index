@@ -1,1 +1,15 @@
+{
+    "question":"The HCF of two numbers is 12 and their product is 31104. How many such numbers are possible?",
+    "options":[
+        "2",
+        "10",
+        "30",
+        "32",
+        "Infinite"
+    ],
+    "source":"https://bodheeprep.com/hcf-lcm-questions-cat",
+    "difficulty":"medium",
+    "correctAnswer":"a",
+    "correctSolutionVideoData":""
+}
 
