@@ -1,1 +1,15 @@
+{
+    "question":"Three company of soldiers containing 120, 192, and 144 soldiers are to be broken down into smaller groups such that each group contains soldiers from one company only and all the groups have equal number of soldiers. What is the least number of total groups formed?",
+    "options":[
+        "29",
+        "17",
+        "19",
+        "27",
+        "14"
+    ],
+    "source":"https://bodheeprep.com/hcf-lcm-questions-cat",
+    "difficulty":"easy",
+    "correctAnswer":"c",
+    "correctSolutionVideoData":""
+}
 
