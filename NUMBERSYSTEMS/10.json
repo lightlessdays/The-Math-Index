@@ -1,1 +1,15 @@
+{
+    "question":"The numbers 2604, 1020 and 4812 when divided by a number N give the same remainder of 12. Find the highest such number N.",
+    "options":[
+        "3",
+        "4",
+        "12",
+        "36",
+        "48"
+    ],
+    "source":"https://bodheeprep.com/hcf-lcm-questions-cat",
+    "difficulty":"easy",
+    "correctAnswer":"e",
+    "correctSolutionVideoData":""
+}
 
