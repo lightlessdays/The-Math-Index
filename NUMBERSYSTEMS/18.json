@@ -1,1 +1,15 @@
+{
+    "question":"Placing which of the following two digits at the right end of 4530 makes the resultant six digit number divisible by 6,7 and 9?",
+    "options":[
+        "96",
+        "78",
+        "42",
+        "54",
+        "Both I and III"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"a",
+    "correctSolutionVideoData":""
+}
 
