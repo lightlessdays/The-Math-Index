@@ -1,1 +1,15 @@
+{
+    "question":"How many four-digit positive integers exist that contain the block 25 and are divisible by 75. (2250 and 2025 are two such numbers)? ",
+    "options":[
+        "90",
+        "63",
+        "34",
+        "87",
+        "62"
+    ],
+    "source":"https://gmatpractice.q-51.com/number_properties.shtml",
+    "difficulty":"medium",
+    "correctAnswer":"c",
+    "correctSolutionVideoData":""
+}
 

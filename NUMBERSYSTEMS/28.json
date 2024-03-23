@@ -1,1 +1,12 @@
+{
+    "question":" If N = 1980, Find the number and sum of its even factors.",
+    "options":[
+        "28, 6552" , "24, 5616" , "24, 4630" , "28, 5672" , "None of the above"
+
+    ],
+    "source":"https://bodheeprep.com/hcf-lcm-questions-cat",
+    "difficulty":"medium",
+    "correctAnswer":"b",
+    "correctSolutionVideoData":""
+}
 

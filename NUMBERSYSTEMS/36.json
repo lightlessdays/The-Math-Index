@@ -1,1 +1,15 @@
+{
+    "question":"A 4-digit number of the form aabb is a perfect square. What is the value of a - b?",
+    "options":[
+        "3",
+        "2",
+        "4",
+        "1",
+        "0"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"a",
+    "correctSolutionVideoData":""
+}
 

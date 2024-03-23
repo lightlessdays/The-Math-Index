@@ -1,1 +1,15 @@
+{
+    "question":"Consider a large number N = 1234567891011121314………979899100. What is the remainder when first 100 digits of N is divided by 9?",
+    "options":[
+        "0",
+        "8",
+        "1",
+        "5",
+         "2"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"d",
+    "correctSolutionVideoData":""
+}
 

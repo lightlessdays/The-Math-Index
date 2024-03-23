@@ -1,1 +1,15 @@
+{
+    "question":"If a three digit number ‘abc’ has 2 factors (where a, b, c are digits), how many factors does the 6-digit number ‘abcabc’ have?",
+    "options":[
+        "16",
+        "24",
+        "18",
+        "30",
+        "Cannot be Determined"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"a",
+    "correctSolutionVideoData":""
+}
 

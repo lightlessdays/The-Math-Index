@@ -1,1 +1,15 @@
+{
+    "question":"If x and y are integers and |x - y| = 12, what is the minimum possible value of xy?",
+    "options":[
+        "-12",
+        "-18",
+        "-24",
+        "-36",
+        "-48"
+    ],
+    "source":"https://gmatpractice.q-51.com/number_properties.shtml",
+    "difficulty":"medium",
+    "correctAnswer":"d",
+    "correctSolutionVideoData":""
+}
 

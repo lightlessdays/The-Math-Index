@@ -1,1 +1,15 @@
+{
+    "question":"N is an 80-digit positive integer (in the decimal scale). All digits except the 44th digit (from the left) are 2. If N is divisible by 13, find the 44th digit?",
+    "options":[
+        "5",
+        "6",
+        "1",
+        "2",
+        "None of the Above"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"b",
+    "correctSolutionVideoData":""
+}
 

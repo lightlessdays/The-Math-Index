@@ -1,1 +1,15 @@
+{
+    "question":"Susan invited 13 of her friends for her birthday party and created return gift hampers comprising one each of $3, $4, and $5 gift certificates. One of her friends did not turn up and Susan decided to rework her gift hampers such that each of the 12 friends who turned up got $13 worth gift certificates. How many gift hampers did not contain $5 gift certificates in the new configuration?",
+    "options":[
+        "5",
+        "2",
+        "9",
+        "3",
+        "7"
+    ],
+    "source":"https://gmatpractice.q-51.com/number_properties.shtml",
+    "difficulty":"medium",
+    "correctAnswer":"d",
+    "correctSolutionVideoData":""
+}
 

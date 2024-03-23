@@ -1,1 +1,15 @@
+{
+    "question":"If x and y are non-negative integers such that 4x + 7y = 68, how many values are possible for (x + y)?    ",
+    "options":[
+        "11",
+        "14",
+        "13",
+        "5",
+        "3"
+    ],
+    "source":"https://gmatpractice.q-51.com/number_properties.shtml",
+    "difficulty":"medium",
+    "correctAnswer":"e",
+    "correctSolutionVideoData":""
+}
 

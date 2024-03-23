@@ -1,1 +1,15 @@
+{
+    "question":"What is the number of even factors of 36000 which are divisible by 9 but not by 36?",
+    "options":[
+        "20",
+        "4",
+        "10",
+        "12",
+        "0"
+    ],
+    "source":"https://cracku.in/blog/cat-questions-on-factors-of-a-number/?utm_source=wordpress&utm_campaign=cotentshare",
+    "difficulty":"medium",
+    "correctAnswer":"b",
+    "correctSolutionVideoData":""
+}
 
