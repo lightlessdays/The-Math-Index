@@ -1,1 +1,15 @@
+{
+    "question":"How many of the integers 1, 2, … , 120, are divisible by none of 2, 5 and 7?",
+    "options":[
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"b",
+    "correctSolutionVideoData":""
+}
 
