@@ -1,1 +1,14 @@
-
+{
+    "question":"A number leaves a remainder 3 on division by 14, and leaves a remainder k on division by 35. How many possible values can k take?",
+    "options":[
+        "3",
+        "1",
+        "2",
+        "5",
+         "4"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"d",
+    "correctSolutionVideoData":""
+}
