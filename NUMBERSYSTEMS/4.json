@@ -1,3 +1,14 @@
-⁹⁹
-
-
+{
+    "question":"For every positive even integer n, the function h(n) is defined to be the product of all the even integers from 2 to n, inclusive. If p is the smallest prime factor of h(100) +1, then p is?",
+    "options":[
+        "Between 2 and 10",
+        "Between 10 and 20",
+        "Between 20 and 30",
+        "Between 30 and 40",
+        "Greater than 40"
+    ],
+    "source":"https://gmatclub.com/forum/for-every-positive-even-integer-n-the-function-h-n-is-defined-to-be-212521.html",
+    "difficulty":"easy",
+    "correctAnswer":"e",
+    "correctSolutionVideoData":"https://www.youtube.com/watch?v=CLBhqkw4w2E&ab_channel=AtlanticGMATTutoring"
+}
