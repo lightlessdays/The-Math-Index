@@ -1,1 +1,15 @@
+{
+    "question":"The sum of the factors of a number is 124. What is the number?",
+    "options":[
+        "Number lies between 40 and 50",
+        "Number lies between 50 and 60",
+        "Number lies between 60 and 80",
+        "Number lies between 80 and 100",
+         "More than one such number exists"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"e",
+    "correctSolutionVideoData":""
+}
 
