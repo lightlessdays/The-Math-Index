@@ -1,1 +1,15 @@
+{
+    "question":"A number N2 has 15 factors. How many factors can N have?",
+    "options":[
+        "5 or 7 factors",
+        "6 or 8 factors",
+        "4 or 6 factors",
+        "9 or 8 factors",
+        "6 or 9 factors"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"b",
+    "correctSolutionVideoData":""
+}
 
