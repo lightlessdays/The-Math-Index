@@ -1,1 +1,14 @@
-
+{
+    "question":"If the units digits of n³⁹ is 3, which of the following can be the value of the positive integer n?",
+    "options":[
+        "21",
+        "23",
+        "25",
+        "67",
+        "69"
+    ],
+    "source":"https://gmatclub.com/forum/if-the-units-digits-of-n-39-is-3-which-of-the-following-can-be-the-va-413357.html",
+    "difficulty":"easy",
+    "correctAnswer":"d",
+    "correctSolutionVideoData":""
+}
