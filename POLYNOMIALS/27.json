@@ -1,1 +1,14 @@
-
+{
+    "question":"A page is torn from a novel. The sum of the remaining page numbers is 10000. What is the sum of the two page-numbers on the torn page of this novel?",
+    "options":[
+        "76 and 77",
+        "5 and 6",
+        "33 and 34",
+        "Either I or II",
+         "Either II or III"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"d",
+    "correctSolutionVideoData":""
+}
