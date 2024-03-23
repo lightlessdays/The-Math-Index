@@ -1,1 +1,15 @@
+{
+    "question":"A number when divided by 3, 4, 5, and 6 always leaves a remainder of 2, but leaves no remainder when divided by 7. What is the lowest such number possible?",
+    "options":[
+        "36",
+        "91",
+        "182",
+        "276",
+        "382"
+    ],
+    "source":"https://bodheeprep.com/hcf-lcm-questions-cat",
+    "difficulty":"medium",
+    "correctAnswer":"c",
+    "correctSolutionVideoData":""
+}
 
