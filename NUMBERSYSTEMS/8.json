@@ -1,1 +1,15 @@
+{
+    "question":"The sum of the first two natural numbers, each having 1 5 factors (including 1 and the number itself), is",
+    "options":[
+        "19",
+        "154",
+        "468",
+        "512",
+        "1027"
+    ],
+    "source":"https://cracku.in/cat-number-systems-questions",
+    "difficulty":"easy",
+    "correctAnswer":"c",
+    "correctSolutionVideoData":""
+}
 
