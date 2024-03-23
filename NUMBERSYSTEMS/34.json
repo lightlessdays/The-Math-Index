@@ -1,11 +1,11 @@
 {
-    "question":"A number 4¹⁶ + 1 is divisible by x. Which among the following is also divisible by x?",
+    "question":"A number 4^16 + 1 is divisible by x. Which among the following is also divisible by x? (a^b implies a raised to power b)",
     "options":[
-        "4³⁹ + 1",
-        "4⁹⁶ + 1",
-        "4³² + 1",
-        "4⁸ + 1",
-        "4⁴⁸ + 1"
+        "4^39 + 1",
+        "4^96 + 1",
+        "4^32 + 1",
+        "4^8 + 1",
+        "4^48 + 1"
     ],
     "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
     "difficulty":"medium",

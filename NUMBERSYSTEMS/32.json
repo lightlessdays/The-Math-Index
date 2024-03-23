@@ -1,10 +1,10 @@
 {
-    "question":"What is the product of all the factors of the cube of a positive integer 'n' if the product of all the factors of square of n is n³?",
+    "question":"n raised to power x is the product of all the factors of the cube of a positive integer 'n' if the product of all the factors of square of n is n³? Find x.",
     "options":[
-        "n⁹",
-        "n⁶",
-        "n⁴",
-        "n⁸",
+        "9",
+        "7",
+        "4",
+        "8",
         "Cannot be Determined"
     ],
     "source":"https://bodheeprep.com/hcf-lcm-questions-cat",
