@@ -1,1 +1,15 @@
+{
+    "question":"The integers 573921 and 575713 when divided by a 3 digit number leave the same remainder. What is that 3 digit number?",
+    "options":[
+        "206",
+        "256",
+        "274",
+        "189",
+         "184"
+    ],
+    "source":"https://iim-cat-questions-answers.2iim.com/quant/number-system/factors/",
+    "difficulty":"medium",
+    "correctAnswer":"b",
+    "correctSolutionVideoData":""
+}
 
