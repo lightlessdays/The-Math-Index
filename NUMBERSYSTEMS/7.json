@@ -1,1 +1,15 @@
+{
+    "question":"The number of positive integers less than 50, having exactly two distinct factors other than 1 and itself, is",
+    "options":[
+        "15",
+        "16",
+        "17",
+        "45",
+        "49"
+    ],
+    "source":"https://cracku.in/cat-number-systems-questions",
+    "difficulty":"easy",
+    "correctAnswer":"a",
+    "correctSolutionVideoData":""
+}
 
